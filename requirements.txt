@@ -5,6 +5,6 @@ rich==13.4.2
 telegram==0.0.1
 user-agent==0.1.10
 requests==2.31.0
-time==3.9
+time==3.9.6
 random==3.9.6
 
