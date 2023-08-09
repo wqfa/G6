@@ -12,7 +12,7 @@ except ImportError:
 	os.system('pip install random')
 	os.system('pip install re')
 	os.system('clear')
-bot = telebot.TeleBot('6139875501:AAFey667OpsJbbOtC5tVKN6mnn8ZjgbxK1c')
+bot = telebot.TeleBot('5393921528:AAEMpK64XMx3ALMeNIG82zjD2AhCjzMXowM')
 
 @bot.message_handler(commands=['start','cookies'])
 def st(message):
